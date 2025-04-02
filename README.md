@@ -38,7 +38,7 @@ ORACLE_PASSWORD=sua_senha
 ORACLE_DSN=seu_localhost
 ```
 
-Exemplo de ORACLE_DSN: localhost/xepdb1 ou xe.
+Exemplo de ORACLE_DSN: localhost:1234/xepdb1 ou xe.
 
 ### Executar o projeto
 ```
